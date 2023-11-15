@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tifwuPhcY57OI9rw0UfcXnQH2jQNtx3DXH1QxkSrqkaabgJKjkR9emkXTowweoEPtwk1mFEL41VcFYkvT1gzWQ==",
+  "success": true,
+  "projectFilePath": "E:\\WIN7BACKUP\\tModDownloader\\tModDownloader\\tModDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
